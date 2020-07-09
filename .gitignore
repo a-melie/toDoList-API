@@ -8,3 +8,8 @@
 /var/
 /vendor/
 ###< symfony/framework-bundle ###
+
+.DS_Store
+/.DS_Store/
+.idea/
+
